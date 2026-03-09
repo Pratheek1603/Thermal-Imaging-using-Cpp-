@@ -1,5 +1,4 @@
 # Thermal-Imaging-using-C++-
-MATLAB provides functions to acquire thermal images from various sources, such as cameras, files, or simulated data.
 Thermal Imaging using C++ is a computer vision project that demonstrates how thermal-style image visualization can be simulated using image processing techniques. The project uses C++ along with the OpenCV library to process images or video frames and apply thermal color mappings that resemble real thermal camera output.
 
 The main program is responsible for initializing the system, capturing image frames, processing them, and displaying the thermal visualization. It begins by loading the required libraries and setting up the camera or reading an input image/video. Once the input is obtained, each frame is processed to extract intensity information.
